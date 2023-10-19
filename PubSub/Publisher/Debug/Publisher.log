@@ -1,0 +1,5 @@
+﻿  Publisher.cpp
+c:\users\user\desktop\ikp_pubsub_g12\pubsub\common\queue.h(98): warning C4715: 'Dequeue': not all control paths return a value
+c:\users\user\desktop\ikp_pubsub_g12\pubsub\common\queue.h(109): warning C4715: 'DequeueMessageQueue': not all control paths return a value
+c:\users\user\desktop\ikp_pubsub_g12\pubsub\publisher\publisher.h(190): warning C4715: 'SelectFunction': not all control paths return a value
+  Publisher.vcxproj -> C:\Users\User\Desktop\IKP_PUBSUB_G12\PubSub\Debug\Publisher.exe
